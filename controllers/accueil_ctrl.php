@@ -1,0 +1,1 @@
+<?php $restaurants = ( new Restaurant())->getRestaurants(); ?>
